@@ -1,0 +1,12 @@
+{
+  "text.config.gluon.title": "Gluon Settings",
+  "text.config.gluon.option.leadableVillagers": "Leadable Villagers",
+  "text.config.gluon.option.unbreakableLeads": "Unbreakable Leads",
+  "text.config.gluon.category.piglinBrutesDropNetheriteScrap": "Piglin brutes drop netherite scrap",
+  "text.config.gluon.option.piglinBrutesDropNetheriteScrap.enabled": "Enabled?",
+  "text.config.gluon.option.piglinBrutesDropNetheriteScrap.chance": "Base chance",
+  "text.config.gluon.option.piglinBrutesDropNetheriteScrap.additionalChancePerLootingLevel": "Additional chance per looting level",
+  "text.config.gluon.category.useThrough": "Use blocks through",
+  "text.config.gluon.option.useThrough.throughSigns": "Through signs?",
+  "text.config.gluon.option.useThrough.throughItemFrames": "Through item frames?"
+}

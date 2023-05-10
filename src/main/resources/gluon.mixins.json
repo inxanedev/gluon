@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "com.inxane.gluon.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "leadable_villagers.MerchantEntityMixin",
+    "netherite_scrap_piglin_brutes.PiglinBruteEntityMixin",
+    "open_containers.AbstractSignBlockMixin",
+    "open_containers.ItemFrameEntityMixin",
+    "unbreakable_leads.PathAwareEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}
