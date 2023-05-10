@@ -1,10 +1,7 @@
-package com.inxane.gluon.mixin.open_containers;
+package com.inxane.gluon.mixin.use_through;
 
 import com.inxane.gluon.Gluon;
 import net.minecraft.block.*;
-import net.minecraft.block.entity.BlockEntity;
-import net.minecraft.block.entity.LidOpenable;
-import net.minecraft.block.entity.LootableContainerBlockEntity;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.state.property.Properties;
 import net.minecraft.util.ActionResult;

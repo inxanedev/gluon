@@ -5,8 +5,8 @@
   "mixins": [
     "leadable_villagers.MerchantEntityMixin",
     "netherite_scrap_piglin_brutes.PiglinBruteEntityMixin",
-    "open_containers.AbstractSignBlockMixin",
-    "open_containers.ItemFrameEntityMixin",
+    "use_through.AbstractSignBlockMixin",
+    "use_through.ItemFrameEntityMixin",
     "unbreakable_leads.PathAwareEntityMixin"
   ],
   "injectors": {

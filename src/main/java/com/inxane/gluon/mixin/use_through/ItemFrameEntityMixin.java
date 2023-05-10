@@ -1,4 +1,4 @@
-package com.inxane.gluon.mixin.open_containers;
+package com.inxane.gluon.mixin.use_through;
 
 import com.inxane.gluon.Gluon;
 import net.minecraft.block.BlockState;
