@@ -19,7 +19,7 @@ import java.util.Optional;
 @Mixin(PiglinBrain.class)
 public class PiglinBrainMixin {
     @Inject(at = @At("HEAD"), method = "getPreferredTarget", cancellable = true)
-    private static void onBecomeAngryWithEntity(PiglinEntity piglin, CallbackInfoReturnable<Optional<? extends LivingEntity>> cir) {
+    private static void getPreferredTargetOverride(PiglinEntity piglin, CallbackInfoReturnable<Optional<? extends LivingEntity>> cir) {
         if (Gluon.CONFIG.afterBarterPiglinAngerCooldown() != 0) {
             if (PiglinAngerCooldowns.cooldowns.containsKey(piglin.getUuid())) {
                 cir.setReturnValue(Optional.empty());
