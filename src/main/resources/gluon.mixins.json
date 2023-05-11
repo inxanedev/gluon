@@ -4,10 +4,12 @@
   "compatibilityLevel": "JAVA_17",
   "mixins": [
     "leadable_villagers.MerchantEntityMixin",
+    "longer_neutral_piglins.MinecraftServerMixin",
+    "longer_neutral_piglins.PiglinBrainMixin",
     "netherite_scrap_piglin_brutes.PiglinBruteEntityMixin",
+    "unbreakable_leads.PathAwareEntityMixin",
     "use_through.AbstractSignBlockMixin",
-    "use_through.ItemFrameEntityMixin",
-    "unbreakable_leads.PathAwareEntityMixin"
+    "use_through.ItemFrameEntityMixin"
   ],
   "injectors": {
     "defaultRequire": 1

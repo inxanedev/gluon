@@ -8,5 +8,6 @@
   "text.config.gluon.option.piglinBrutesDropNetheriteScrap.additionalChancePerLootingLevel": "Additional chance per looting level",
   "text.config.gluon.category.useThrough": "Use blocks through",
   "text.config.gluon.option.useThrough.throughSigns": "Through signs?",
-  "text.config.gluon.option.useThrough.throughItemFrames": "Through item frames?"
+  "text.config.gluon.option.useThrough.throughItemFrames": "Through item frames?",
+  "text.config.gluon.option.afterBarterPiglinAngerCooldown": "Amount of ticks piglin should stay neutral for after bartering"
 }

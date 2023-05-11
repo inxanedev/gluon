@@ -25,4 +25,6 @@ public class ModConfigModel {
         public boolean throughSigns = true;
         public boolean throughItemFrames = true;
     }
+
+    public int afterBarterPiglinAngerCooldown = 20 * 15;
 }
