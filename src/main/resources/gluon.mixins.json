@@ -7,6 +7,7 @@
     "longer_neutral_piglins.MinecraftServerMixin",
     "longer_neutral_piglins.PiglinBrainMixin",
     "netherite_scrap_piglin_brutes.PiglinBruteEntityMixin",
+    "piglin_anger_particles.PiglinBrainMixin",
     "unbreakable_leads.PathAwareEntityMixin",
     "use_through.AbstractSignBlockMixin",
     "use_through.ItemFrameEntityMixin"

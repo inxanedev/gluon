@@ -27,4 +27,5 @@ public class ModConfigModel {
     }
 
     public int afterBarterPiglinAngerCooldown = 20 * 15;
+    public boolean spawnParticlesOnPiglinAnger = true;
 }
